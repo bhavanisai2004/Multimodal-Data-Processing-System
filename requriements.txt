@@ -1,0 +1,9 @@
+streamlit==1.30.0
+google-generativeai
+pillow
+python-docx
+python-pptx
+PyPDF2
+yt-dlp
+youtube-transcript-api
+pytube
